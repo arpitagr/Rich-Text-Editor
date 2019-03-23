@@ -1,0 +1,47 @@
+.main
+{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+button
+{
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin:4px;
+	background-color: teal;
+	color:#fff;
+	font-size: 15px;
+	font-family: sans-serif;
+	font-weight: 100;
+	border:none;
+	outline: none;
+	border-radius: 4px;
+}
+button:hover
+{
+	background: #000;
+}
+button:focus
+{
+	background: #000;
+}
+iframe
+{
+	padding: 5px;
+	margin:3px;
+	background-color: #f3f3f3;
+	border-style: solid;
+	border-color: #d2d2d2;
+	border-width: 3px;
+	outline: none;
+	border-radius: 4px;
+	width: 1000px; 
+	height: 400px;
+}
+input[type=color]
+{
+	border:none;
+	outline: none;
+	background: #fff;
+}
